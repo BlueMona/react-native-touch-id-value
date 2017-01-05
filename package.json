@@ -1,0 +1,31 @@
+{
+  "name": "react-native-touch-id-value",
+  "version": "1.0.0",
+  "description": "React Native Apple TouchID bridge for storing and retrieving fingerprint protected values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeerioTechnologies/react-native-touch-id-value.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "touch-id",
+    "auth",
+    "authentication",
+    "ios",
+    "mobile"
+  ],
+  "author": "Samvel Avanesov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeerioTechnologies/react-native-touch-id-value/issues"
+  },
+  "homepage": "https://github.com/PeerioTechnologies/react-native-touch-id-value#readme",
+  "peerDependencies": {
+    "react-native": "^0.39.0"
+  }
+}
