@@ -1,6 +1,6 @@
 {
   "name": "react-native-touch-id-value",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "React Native Apple TouchID bridge for storing and retrieving fingerprint protected values",
   "main": "index.js",
   "scripts": {

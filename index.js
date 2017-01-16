@@ -3,7 +3,7 @@ import { NativeModules } from 'react-native';
 const TouchID  = {
     isFeatureAvailable() {
         if (!NativeModules.RNTouchIDValue) {
-            console.warn('touchid-bridge.js: module not linked');
+            console.log('touchid-bridge.js: module not linked');
             return Promise.resolve(false);
         }
         return NativeModules.RNTouchIDValue.isFeatureAvailable();
