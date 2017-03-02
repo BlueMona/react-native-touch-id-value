@@ -1,6 +1,6 @@
 {
   "name": "react-native-touch-id-value",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native Apple TouchID bridge for storing and retrieving fingerprint protected values",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/PeerioTechnologies/react-native-touch-id-value#readme",
   "peerDependencies": {
-    "react-native": "^0.39.0"
+    "react-native": ">0.40.0"
   }
 }
