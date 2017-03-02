@@ -7,7 +7,7 @@
 //
 #include <sys/types.h>
 #include <sys/sysctl.h>
-#include "RCTLog.h"
+#include <React/RCTLog.h>
 #import "RNTouchIDValue.h"
 
 #import <Foundation/Foundation.h>
